@@ -107,4 +107,4 @@ website/docs/Contribute.md
 website/community/Resources.md
 scripts/bidi/cddl
 browserstack.err
-packages/webdriverio/.chromedriver
+packages/webdriverio/.chrome
